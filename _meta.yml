@@ -1,0 +1,4 @@
+website:
+  open-graph: true
+resources:
+  - CNAME

@@ -1,0 +1,8 @@
+---
+title: "Welcome"
+---
+
+# CURRENTLY UNDER CONSTRUCTION
+
+Hi, I’m Thomas. I build analytics and simulation projects.  
+Explore my **[Projects](projects.qmd)**.

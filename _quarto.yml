@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Thomas Martin"
+  site-url: https://YOUR-USER.github.io
+  description: "Analytics, modeling, and reproducible research."
+  favicon: /favicon.ico
+
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      #- text: Blog
+       # href: posts/index.qmd
+      - text: About
+        href: about.qmd
+    right:
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/YOUR-USER
+
+  page-footer:
+    center: "© {{< meta title >}} {{< today fmt='YYYY' >}} · Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    code-copy: true
+
+execute:
+  freeze: auto   # reproducible builds for posts
+
+# Optional: RSS for posts
+metadata-files:
+  - _meta.yml
