@@ -1,0 +1,12 @@
+---
+title: "Projects"
+listing:
+  contents: projects
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  image-align: left
+  fields: [image, title, description, categories, date]
+---
+
+These projects open on their own GitHub Pages sites.

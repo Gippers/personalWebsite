@@ -26,5 +26,19 @@
     "title": "Welcome",
     "section": "",
     "text": "CURRENTLY UNDER CONSTRUCTION\nHi, I’m Thomas. I build analytics and simulation projects.\nExplore my Projects."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "These projects open on their own GitHub Pages sites.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nACT School Walking Distance\n\n\n\nR\n\nNetwork Analytics\n\nACT\n\n\n\nAn analysis of the time it take’s the average school child in the Australian Capital Territory (ACT) to walk to school over the last 20 years\n\n\n\nAug 31, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/actSchoolWalking.html",
+    "href": "projects/actSchoolWalking.html",
+    "title": "ACT School Walking Distance",
+    "section": "",
+    "text": "&lt;meta http-equiv=“refresh” content=“0; url=https://gippers.github.io/actSchoolWalking/”&gt;\n\nIf you are not redirected, click here: Open the project."
   }
 ]

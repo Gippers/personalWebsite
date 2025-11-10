@@ -1,0 +1,16 @@
+---
+title: "ACT School Walking Distance"
+date: 2025-08-31
+description: "An analysis of the time it take's the average school child in the Australian Capital Territory (ACT) to walk to school over the last 20 years"
+categories: [R, Network Analytics, ACT]
+image: https://YOUR-USER.github.io/cool-project/thumbnail.png
+# Where the *actual* project lives:
+external-url: https://gippers.github.io/actSchoolWalking/
+---
+
+<!-- Redirect visitors immediately to the external project site -->
+<meta http-equiv="refresh" content="0; url={{< meta external-url >}}">
+<script>window.location.href = "{{< meta external-url >}}";</script>
+
+If you are not redirected, click here:
+[Open the project]({{< meta external-url >}}).
