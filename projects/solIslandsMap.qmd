@@ -1,11 +1,11 @@
 ---
 title: "Solomon Islands Data Map"
 date: 2024-02-01
-description: "An analysis of the time it take's the average school child in the Australian Capital Territory (ACT) to walk to school over the last 20 years by suburb"
+description: "Data Relating to Solomon Islands Displayed on a Graph"
 categories: [Python, BI, Geospatial]
 image: ../icons/solMap.png
 # Where the *actual* project lives:
-external-url: https://gippers.github.io/actSchoolWalking/
+external-url: https://solomonislandsdatamap.onrender.com/
 ---
 
 <!-- Redirect visitors immediately to the external project site -->
