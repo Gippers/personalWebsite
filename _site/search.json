@@ -7,13 +7,6 @@
     "text": "These projects open on their own GitHub Pages sites.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nACT School Walking Analysis\n\n\n\nR\n\nNetwork Analytics\n\nACT\n\n\n\nAn analysis of the time it take’s the average school child in the Australian Capital Territory (ACT) to walk to school over the last 20 years by suburb\n\n\n\nAug 31, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/actSchoolWalking.html",
-    "href": "projects/actSchoolWalking.html",
-    "title": "ACT School Walking Analysis",
-    "section": "",
-    "text": "&lt;meta http-equiv=“refresh” content=“0; url=https://gippers.github.io/actSchoolWalking/”&gt;\n\nIf you are not redirected, click here: Open the project."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
@@ -40,5 +33,12 @@
     "title": "About",
     "section": "Professional Experience",
     "text": "Professional Experience"
+  },
+  {
+    "objectID": "projects/actSchoolWalking.html",
+    "href": "projects/actSchoolWalking.html",
+    "title": "ACT School Walking Analysis",
+    "section": "",
+    "text": "&lt;meta http-equiv=“refresh” content=“0; url=https://gippers.github.io/actSchoolWalking/”&gt;\n\nIf you are not redirected, click here: Open the project."
   }
 ]

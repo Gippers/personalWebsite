@@ -24,7 +24,7 @@ website:
         href: https://github.com/Gippers
 
   page-footer:
-    center: "© {{< meta title >}} {{< today fmt='YYYY' >}} · Built with Quarto"
+    center: "2025 · Built with Quarto"
 
 format:
   html:

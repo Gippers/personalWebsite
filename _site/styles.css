@@ -4,15 +4,11 @@
   box-shadow: 0 4px 18px rgba(0,0,0,.06);
 }
 .quarto-grid .card-img-top {
-  object-fit: cover;
-  height: 160px;
-}
-
-/* Make listing card thumbnails fit without cropping */
-.quarto-grid .card-img-top {
-  height: 180px;           /* tweak as you like */
-  object-fit: contain;     /* <— key: show whole image */
-  object-position: center; /* keep centered */
-  background: #fff;        /* match your white background */
-  padding: 8px;            /* optional breathing room */
+  width: 100%;
+  height: auto;
+  max-height: 180px;
+  object-fit: contain;
+  object-position: center;
+  background: #fff;
+  padding: 8px;
 }
