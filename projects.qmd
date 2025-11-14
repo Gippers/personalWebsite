@@ -6,7 +6,8 @@ listing:
   type: grid
   grid-columns: 2
   image-align: left
-  fields: [image, title, description, categories, date]
+  fields: [image, title, description, categories, date]  
 ---
 
 These projects open on their own GitHub Pages sites.
+ 

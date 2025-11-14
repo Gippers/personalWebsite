@@ -4,7 +4,6 @@ date: 2024-02-01
 description: "Data Relating to Solomon Islands Displayed on a Graph"
 categories: [Python, BI, Geospatial]
 image: ../icons/solMap.png
-# Where the *actual* project lives:
 external-url: https://solomonislandsdatamap.onrender.com/
 ---
 

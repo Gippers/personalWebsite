@@ -6,7 +6,7 @@
 .quarto-grid .card-img-top {
   width: 100%;
   height: auto;
-  max-height: 500px;
+  max-height: 180px;
   object-fit: contain;
   object-position: center;
   background: #fff;

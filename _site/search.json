@@ -4,7 +4,35 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "These projects open on their own GitHub Pages sites.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nACT School Walking Analysis\n\n\n\nR\n\nNetwork Analytics\n\nACT\n\n\n\nAn analysis of the time it take’s the average school child in the Australian Capital Territory (ACT) to walk to school over the last 20 years by suburb\n\n\n\nAug 31, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "These projects open on their own GitHub Pages sites.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nACT School Walking Analysis\n\n\n\nR\n\nNetwork Analytics\n\nACT\n\n\n\nAn analysis of School Walking Distance in the ACT\n\n\n\nAug 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolomon Islands Data Map\n\n\n\nPython\n\nBI\n\nGeospatial\n\n\n\nData Relating to Solomon Islands Displayed on a Graph\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/actSchoolWalking.html",
+    "href": "projects/actSchoolWalking.html",
+    "title": "ACT School Walking Analysis",
+    "section": "",
+    "text": "&lt;meta http-equiv=“refresh” content=“0; url=https://gippers.github.io/actSchoolWalking/”&gt;\n\nIf you are not redirected, click here: Open the project."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a well-rounded data scientist with over five years of experience. I turn messy, complex data into insights that actually help people make better decisions. I’ve worked across the full analytics lifecycle from shaping research questions and pulling together tricky administrative datasets, to analysing and modelling data, and finally presenting results in a clear, easy to understand way. I aim to deliver insights that genuinely improve outcomes.\nYou can look at some of my personal projects on GitHub.\nI am contactable at thomas.martin.stats@gmail.com."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nMasters of Statistics\n\nAustralian National University\nMarch 2023 – Ongoing\n\nGraduate Certificate of Finance and Actuarial Statistics - Australian National University - March 2023 – Dec 2024\nBachelor of Science - Major in Computer Science and Minor in Mathematics - Australian National University/University of New South Wales - March 2015 - November 2018"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nOver 5 years experience working in the data analytics sector performing BI and data analytics. Including regression modelling and forecasting."
   },
   {
     "objectID": "index.html",
@@ -14,31 +42,10 @@
     "text": "CURRENTLY UNDER CONSTRUCTION\nHi, I’m Thomas. I build analytics and simulation projects.\nExplore my Projects."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects/solIslandsMap.html",
+    "href": "projects/solIslandsMap.html",
+    "title": "Solomon Islands Data Map",
     "section": "",
-    "text": "Short bio, expertise, and contact details.\nGitHub: https://github.com/Gippers"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education"
-  },
-  {
-    "objectID": "about.html#professional-experience",
-    "href": "about.html#professional-experience",
-    "title": "About",
-    "section": "Professional Experience",
-    "text": "Professional Experience"
-  },
-  {
-    "objectID": "projects/actSchoolWalking.html",
-    "href": "projects/actSchoolWalking.html",
-    "title": "ACT School Walking Analysis",
-    "section": "",
-    "text": "&lt;meta http-equiv=“refresh” content=“0; url=https://gippers.github.io/actSchoolWalking/”&gt;\n\nIf you are not redirected, click here: Open the project."
+    "text": "&lt;meta http-equiv=“refresh” content=“0; url=https://solomonislandsdatamap.onrender.com/”&gt;\n\nIf you are not redirected, click here: Open the project."
   }
 ]

@@ -2,13 +2,30 @@
 title: "About"
 ---
 
-Short bio, expertise, and contact details.  
+I’m a well-rounded data scientist with over five years of experience. I turn messy, complex data into insights that actually help people make better decisions. I’ve worked across the full analytics lifecycle from shaping research questions and pulling together tricky administrative datasets, to analysing and modelling data, and finally presenting results in a clear, easy to understand way. I aim to deliver insights that genuinely improve outcomes.
 
+You can look at some of my personal projects on [GitHub](https://github.com/Gippers>).
 
-**GitHub:** <https://github.com/Gippers>
+I am contactable at [thomas.martin.stats@gmail.com](mailto:thomas.martin.stats@gmail.com).
 
 ## Education
 
+**Masters of Statistics**
+
+- Australian National University
+- March 2023 – Ongoing
+
+Graduate Certificate of Finance and Actuarial Statistics
+- Australian National University 
+- March 2023 – Dec 2024
+
+Bachelor of Science
+- Major in Computer Science and Minor in Mathematics
+- Australian National University/University of New South Wales
+- March 2015 - November 2018
+
+
+
 ## Professional Experience
 
-
+Over 5 years experience working in the data analytics sector performing BI and data analytics. Including regression modelling and forecasting.
