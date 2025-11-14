@@ -50,3 +50,12 @@ rsconnect/
 
 /.quarto/
 **/*.quarto_ipynb
+
+#-----------------------------------------------
+# Ignore the html docs
+
+# Ignore Quarto output directory
+/_site/
+
+# Ignore all rendered HTML outputs
+*.html
