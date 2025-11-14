@@ -3,7 +3,7 @@ title: "ACT School Walking Analysis"
 date: 2025-08-31
 description: "An analysis of School Walking Distance in the ACT"
 categories: [R, Network Analytics, ACT]
-image: ../icons/schoolWalking2.png
+image: ../icons/schoolWalking.png
 external-url: https://gippers.github.io/actSchoolWalking/
 ---
 

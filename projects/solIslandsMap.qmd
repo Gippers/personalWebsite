@@ -1,7 +1,7 @@
 ---
 title: "Solomon Islands Data Map"
 date: 2024-02-01
-description: "Data Relating to Solomon Islands Displayed on a Graph"
+description: "Interactive data map of Solomon Islands"
 categories: [Python, BI, Geospatial]
 image: ../icons/solMap.png
 external-url: https://solomonislandsdatamap.onrender.com/

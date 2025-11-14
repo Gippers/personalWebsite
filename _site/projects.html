@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-title','listing-description','listing-categories','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -134,10 +134,10 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Projects – Thomas Martin">
 <meta property="og:description" content="Analytics, modelling, and reproducible research.">
-<meta property="og:image" content="https://personalWebsite.github.io/icons/schoolWalking2.png">
+<meta property="og:image" content="https://personalWebsite.github.io/icons/schoolWalking.png">
 <meta property="og:site_name" content="Thomas Martin">
 <meta property="og:image:height" content="1024">
-<meta property="og:image:width" content="1536">
+<meta property="og:image:width" content="1024">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -187,9 +187,9 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QUNU">ACT <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Qkk=">BI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2Vvc3BhdGlhbA==">Geospatial <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmV0d29yayUyMEFuYWx5dGljcw==">Network Analytics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHl0aG9u">Python <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -212,23 +212,31 @@ window.Quarto = {
 </header>
 
 
-<p>These projects open on their own GitHub Pages sites.</p>
+<p>These projects open on their own GitHub Pages sites. More coming soon.</p>
+<p>Author:</p>
+<p>Thomas Martin</p>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="UiUyQ05ldHdvcmslMjBBbmFseXRpY3MlMkNBQ1Q=" data-listing-date-sort="1756558800000" data-listing-file-modified-sort="1763085704470" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<a href="./projects/actSchoolWalking.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./icons/schoolWalking2.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-ACT School Walking Analysis
-</h5>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="UiUyQ05ldHdvcmslMjBBbmFseXRpY3MlMkNBQ1Q=" data-listing-date-sort="1756558800000" data-listing-file-modified-sort="1763088496626" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
+<div class="thumbnail"><a href="./projects/actSchoolWalking.html" class="no-external">
+
+<img loading="lazy" src="./icons/schoolWalking.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/actSchoolWalking.html" class="no-external">ACT School Walking Analysis</a>
+</h3>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
@@ -238,27 +246,28 @@ ACT School Walking Analysis
 <div class="listing-category" onclick="window.quartoListingCategory('QUNU'); return false;">ACT</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./projects/actSchoolWalking.html" class="no-external">
 <p>An analysis of School Walking Distance in the ACT</p>
+</a></div>
 </div>
-<div class="card-attribution card-text-small end">
+<div class="metadata">
+<a href="./projects/actSchoolWalking.html" class="no-external">
 <div class="listing-date">
 Aug 31, 2025
 </div>
+</a>
 </div>
 </div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="UHl0aG9uJTJDQkklMkNHZW9zcGF0aWFs" data-listing-date-sort="1706706000000" data-listing-file-modified-sort="1763085501142" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<a href="./projects/solIslandsMap.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./icons/solMap.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Solomon Islands Data Map
-</h5>
+<div class="quarto-post image-right" data-index="1" data-categories="UHl0aG9uJTJDQkklMkNHZW9zcGF0aWFs" data-listing-date-sort="1706706000000" data-listing-file-modified-sort="1763085501142" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
+<div class="thumbnail"><a href="./projects/solIslandsMap.html" class="no-external">
+
+<img loading="lazy" src="./icons/solMap.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./projects/solIslandsMap.html" class="no-external">Solomon Islands Data Map</a>
+</h3>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('UHl0aG9u'); return false;">Python</div>
@@ -268,16 +277,17 @@ Solomon Islands Data Map
 <div class="listing-category" onclick="window.quartoListingCategory('R2Vvc3BhdGlhbA=='); return false;">Geospatial</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./projects/solIslandsMap.html" class="no-external">
 <p>Data Relating to Solomon Islands Displayed on a Graph</p>
+</a></div>
 </div>
-<div class="card-attribution card-text-small end">
+<div class="metadata">
+<a href="./projects/solIslandsMap.html" class="no-external">
 <div class="listing-date">
 Feb 1, 2024
 </div>
+</a>
 </div>
-</div>
-</div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>

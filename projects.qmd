@@ -1,13 +1,18 @@
 ---
 title: "Projects"
 listing:
-  contents: projects
+  contents: projects           # use all .qmd files in projects/
+  type: default                # blog-style list (like the screenshot)
   sort: "date desc"
-  type: grid
-  grid-columns: 2
-  image-align: left
-  fields: [image, title, description, categories, date]  
+
+  fields: [image, title, description, categories, date]
+
+  filter-ui: [title, description, categories]   # search box (top-right)
+  categories: numbered          # categories sidebar on the right
+  image-align: right            # image on the right (optional)
 ---
 
-These projects open on their own GitHub Pages sites.
- 
+These projects open on their own GitHub Pages sites. More coming soon.
+
+Author: 
+Thomas Martin
