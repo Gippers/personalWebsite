@@ -28,7 +28,10 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: 
+      light: flatly
+      dark: darkly   # or another dark Bootswatch theme
+    toggle: true
     css: styles.css
     toc: true
     link-external-newwindow: true
