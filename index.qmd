@@ -1,8 +1,40 @@
 ---
-title: "Welcome"
+title: "Home"
+#toc: false
+#page-layout: full
 ---
 
-# CURRENTLY UNDER CONSTRUCTION
+## Thomas Martin  
 
-Hi, I’m Thomas. I build analytics and simulation projects.  
-Explore my **[Projects](projects.qmd)**.
+### Statistician | Computer Scientist | Data Analyst
+
+I build statistical models, BI tools, and apply statistics to help organizations make better decisions.  
+
+I have recently created this site to share some of my personal data analytics projects. More projects are coming in the next few months.
+
+---
+
+## What I Work On
+
+### 🧪 Analytics & Statistics Projects
+Applied data analysis projects in R and Python:
+[View projects](/projects.html)
+
+### 👤 Learn more me
+[Learn more about me](/about.html)
+
+### 📬 Get in Touch   
+[Email me](mailto:thomas.martin.stats@gmail.com)
+
+
+
+---
+
+## Quick Links
+
+- **Projects:** [/projects](/projects.html)  
+- **GitHub:** <https://github.com/Gippers>  
+- **Email:** <mailto:thomas.martin.stats@gmail.com>
+
+---
+

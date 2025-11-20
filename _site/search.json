@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m a well-rounded data scientist with over five years of experience. I turn messy, complex data into insights that actually help people make better decisions. I’ve worked across the full analytics lifecycle from shaping research questions and pulling together tricky administrative datasets, to analysing and modelling data, and finally presenting results in a clear, easy to understand way. I aim to deliver insights that genuinely improve outcomes.\nYou can look at some of my personal projects on GitHub.\nI am contactable at thomas.martin.stats@gmail.com."
+    "text": "I’m a data scientist/analyst with over five years of industry experience. I turn messy, complex data into insights that help make better decisions. I’ve worked across all stages of the analytics lifecycle including planning analysis, wrangling complex administrative datasets, analyzing and modelling data, and finally presenting results in a clear, easy to understand way. I strive to deliver insights that genuinely improve outcomes.\nYou can look at some of my personal projects on GitHub.\nI am contactable at thomas.martin.stats@gmail.com."
   },
   {
     "objectID": "about.html#education",
@@ -32,14 +32,35 @@
     "href": "about.html#professional-experience",
     "title": "About",
     "section": "Professional Experience",
-    "text": "Professional Experience\nOver 5 years experience working in the data analytics sector performing BI and data analytics. Including regression modelling and forecasting."
+    "text": "Professional Experience\nOver 5 years industry experience working in the data analytics/science sector. Some of the tasks I have under taken include; building BI tools, wrangling data, performing data modelling including regression modelling and forecasting, and collating these results into reports."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Home",
     "section": "",
-    "text": "CURRENTLY UNDER CONSTRUCTION\nHi, I’m Thomas. I build analytics and simulation projects.\nExplore my Projects."
+    "text": "I build statistical models, BI tools, and apply statistics to help organizations make better decisions.\nI have recently created this site to share some of my personal data analytics projects. More projects are coming in the next few months."
+  },
+  {
+    "objectID": "index.html#thomas-martin",
+    "href": "index.html#thomas-martin",
+    "title": "Home",
+    "section": "",
+    "text": "I build statistical models, BI tools, and apply statistics to help organizations make better decisions.\nI have recently created this site to share some of my personal data analytics projects. More projects are coming in the next few months."
+  },
+  {
+    "objectID": "index.html#what-i-work-on",
+    "href": "index.html#what-i-work-on",
+    "title": "Home",
+    "section": "What I Work On",
+    "text": "What I Work On\n\n🧪 Analytics & Statistics Projects\nApplied data analysis projects in R and Python: View projects\n\n\n👤 Learn more me\nLearn more about me\n\n\n📬 Get in Touch\nEmail me"
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Home",
+    "section": "Quick Links",
+    "text": "Quick Links\n\nProjects: /projects\n\nGitHub: https://github.com/Gippers\n\nEmail: mailto:thomas.martin.stats@gmail.com"
   },
   {
     "objectID": "projects/solIslandsMap.html",
