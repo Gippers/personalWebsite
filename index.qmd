@@ -18,13 +18,14 @@ I have recently created this site to share some of my personal data analytics pr
 
 ### 🧪 Analytics & Statistics Projects
 Applied data analysis projects in R and Python:
-[View projects](/projects.html)
+[View projects](projects.html)
 
-### 👤 Learn more me
-[Learn more about me](/about.html)
+### 👤 Learn More About Me
+[Learn more about me](about.html)
 
 ### 📬 Get in Touch   
-[Email me](mailto:thomas.martin.stats@gmail.com)
+
+thomas.martin.stats@gmail.com
 
 
 
@@ -32,7 +33,7 @@ Applied data analysis projects in R and Python:
 
 ## Quick Links
 
-- **Projects:** [/projects](/projects.html)  
+- **Projects:** [View Projects](projects.html)  
 - **GitHub:** <https://github.com/Gippers>  
 - **Email:** <mailto:thomas.martin.stats@gmail.com>
 

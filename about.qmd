@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "Learn More About Me"
 ---
 
-I’m a data scientist/analyst with over five years of industry experience. I turn messy, complex data into insights that help make better decisions. I’ve worked across all stages of the analytics lifecycle including planning analysis, wrangling complex administrative datasets, analyzing and modelling data, and finally presenting results in a clear, easy to understand way. I strive to deliver insights that genuinely improve outcomes.
+I am an experienced data scientist with over five years of experience working with data in industry. I am passionate about delivering actionable analytical insights that inform and drive improved policy and outcomes. I have worked with all stages of the analysis process including synthesizing research questions from business requirements, extracting and cleaning complex administrative data, conducting statistical analysis and modelling, and presenting results in an easily comprehensible format. 
 
 You can look at some of my personal projects on [GitHub](https://github.com/Gippers>).
 
-I am contactable at [thomas.martin.stats@gmail.com](mailto:thomas.martin.stats@gmail.com).
+I am contactable at thomas.martin.stats@gmail.com.
 
 ## Education
 

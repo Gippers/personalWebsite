@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m a data scientist/analyst with over five years of industry experience. I turn messy, complex data into insights that help make better decisions. I’ve worked across all stages of the analytics lifecycle including planning analysis, wrangling complex administrative datasets, analyzing and modelling data, and finally presenting results in a clear, easy to understand way. I strive to deliver insights that genuinely improve outcomes.\nYou can look at some of my personal projects on GitHub.\nI am contactable at thomas.martin.stats@gmail.com."
+    "text": "I am an experienced data scientist with over five years of experience working with data in the public service. I am passionate about delivering actionable analytical insights that inform and drive improved policy and outcomes. I have worked with all stages of the analysis process including synthesizing research questions from business requirements, extracting and cleaning complex administrative data, conducting statistical analysis and modelling, and presenting results in an easily comprehensible format.\nYou can look at some of my personal projects on GitHub.\nI am contactable at thomas.martin.stats@gmail.com."
   },
   {
     "objectID": "about.html#education",
@@ -53,14 +53,14 @@
     "href": "index.html#what-i-work-on",
     "title": "Home",
     "section": "What I Work On",
-    "text": "What I Work On\n\n🧪 Analytics & Statistics Projects\nApplied data analysis projects in R and Python: View projects\n\n\n👤 Learn more me\nLearn more about me\n\n\n📬 Get in Touch\nEmail me"
+    "text": "What I Work On\n\n🧪 Analytics & Statistics Projects\nApplied data analysis projects in R and Python: View projects\n\n\n👤 Learn More About Me\nLearn more about me\n\n\n📬 Get in Touch\nthomas.martin.stats@gmail.com"
   },
   {
     "objectID": "index.html#quick-links",
     "href": "index.html#quick-links",
     "title": "Home",
     "section": "Quick Links",
-    "text": "Quick Links\n\nProjects: /projects\n\nGitHub: https://github.com/Gippers\n\nEmail: mailto:thomas.martin.stats@gmail.com"
+    "text": "Quick Links\n\nProjects: View Projects\n\nGitHub: https://github.com/Gippers\n\nEmail: mailto:thomas.martin.stats@gmail.com"
   },
   {
     "objectID": "projects/solIslandsMap.html",
