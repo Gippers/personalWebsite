@@ -6,7 +6,7 @@ I am an accomplished data professional with over five years of experience workin
 
 You can look at the code for my personal projects at [GitHub](https://github.com/Gippers>).
 
-I am contactable at thomas.martin.stats@gmail.com.
+I am contactable at <thomas.martin.stats@gmail.com>.
 
 ## Education
 
