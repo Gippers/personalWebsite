@@ -15,48 +15,47 @@ I have recently created this site to share some of my personal data analytics pr
 ---
 
 ## 🧪 Analytics & Statistics Projects
-Applied data analysis projects in R and Python:
-[View projects](projects.html)
+Applied data analysis projects in R and Python.
 
-Here is a featured example project from my analytics portfolio.
+<div class="text-center">
+  [🔍 View Projects](/projects.html){.btn .btn-primary}
+</div>
 
-<a href="https://solomonislandsdatamap.onrender.com/" style="text-decoration: none; color: inherit;">
-<div class="card" style="padding: 1rem; cursor: pointer;">
 
-<img src="icons/solMap.png" style="width: 300px; margin-bottom: 1rem;">
+A project I’d highlight is the Solomon Islands Data Map, a fully interactive dashboard integrating census, election, and population projection data.
+
+<a href="https://solomonislandsdatamap.onrender.com/" class="text-decoration-none text-reset">
+<div class="card shadow-sm mx-auto" style="max-width: 28rem; cursor: pointer;">
+
+<img src="icons/solMap.png" class="card-img-top" style="max-height: 240px; object-fit: cover;">
+
+<div class="card-body">
 
 ### Solomon Islands Data Map
-Interactive data map of the Solomon Islands  
-<i>Python · BI · Geospatial</i>
 
+Interactive data map of the Solomon Islands  
+*Python · BI · Geospatial*
+
+</div>
 </div>
 </a>
 
 
 
 
-## 👤 [Learn More About Me](about.html)
+
+## 👤 Learn More About Me
+
+<div class="text-center">
+  [ℹ️ About](about.html){.btn .btn-primary}
+</div>
 
 ### Qualifications at a Glance
 
 - **Masters of Statistics**, Australian National University (ANU) (ongoing)
 - **Graduate Certificate of Finance and Actuarial Statistics**, ANU
-- **Bachelor of Science: Majoring in Computer Science**, ANU/University of NSW
-
+- **Bachelor of Science: Major in Computer Science**, ANU/University of NSW
 
 ## 📬 Get in Touch   
 
 <thomas.martin.stats@gmail.com>
-
-
-
----
-
-## Quick Links
-
-- **Projects:** [View Projects](projects.html)  
-- **GitHub:** <https://github.com/Gippers>  
-- **Email:** <thomas.martin.stats@gmail.com>
-
----
-
