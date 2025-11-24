@@ -12,8 +12,6 @@ I build statistical models, BI tools, and apply statistics to help organizations
 
 I have recently created this site to share some of my personal data analytics projects. More projects are coming in the next few months.
 
----
-
 ## 🧪 Analytics & Statistics Projects
 Applied data analysis projects in R and Python.
 
@@ -39,9 +37,6 @@ Interactive data map of the Solomon Islands
 </div>
 </div>
 </a>
-
-
-
 
 
 ## 👤 Learn More About Me
