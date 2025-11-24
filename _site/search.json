@@ -16,21 +16,21 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Learn More About Me",
     "section": "",
-    "text": "I am an experienced data scientist with over five years of experience working with data in the public service. I am passionate about delivering actionable analytical insights that inform and drive improved policy and outcomes. I have worked with all stages of the analysis process including synthesizing research questions from business requirements, extracting and cleaning complex administrative data, conducting statistical analysis and modelling, and presenting results in an easily comprehensible format.\nYou can look at some of my personal projects on GitHub.\nI am contactable at thomas.martin.stats@gmail.com."
+    "text": "I am an accomplished data professional with over five years of experience working with data in industry. I am passionate about delivering actionable analytical insights that inform and drive improved policy and outcomes. I have worked with all stages of the analysis process including synthesizing research questions from business requirements, extracting and cleaning complex administrative data, conducting statistical analysis and modelling, and presenting results in an easily comprehensible format.\nYou can look at some of my personal projects on GitHub.\nI am contactable at thomas.martin.stats@gmail.com."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "About",
+    "title": "Learn More About Me",
     "section": "Education",
     "text": "Education\nMasters of Statistics\n\nAustralian National University\nMarch 2023 – Ongoing\n\nGraduate Certificate of Finance and Actuarial Statistics\n\nAustralian National University\nMarch 2023 – Dec 2024\n\nBachelor of Science\n\nMajor in Computer Science and Minor in Mathematics\nAustralian National University/University of New South Wales\nMarch 2015 - November 2018"
   },
   {
     "objectID": "about.html#professional-experience",
     "href": "about.html#professional-experience",
-    "title": "About",
+    "title": "Learn More About Me",
     "section": "Professional Experience",
     "text": "Professional Experience\nOver 5 years industry experience working in the data analytics/science sector. Some of the tasks I have under taken include; building BI tools, wrangling data, performing data modelling including regression modelling and forecasting, and collating these results into reports."
   },
@@ -53,14 +53,14 @@
     "href": "index.html#what-i-work-on",
     "title": "Home",
     "section": "What I Work On",
-    "text": "What I Work On\n\n🧪 Analytics & Statistics Projects\nApplied data analysis projects in R and Python: View projects\n\n\n👤 Learn More About Me\nLearn more about me\n\n\n📬 Get in Touch\nthomas.martin.stats@gmail.com"
+    "text": "What I Work On\n\n🧪 Analytics & Statistics Projects\nApplied data analysis projects in R and Python: View projects\n\n\n\n\n\nSolomon Islands Data Map\nInteractive data map of Solomon Islands\nPython · BI · Geospatial\nView Project →\n\n\n\n\n\n\n👤 Learn More About Me\nLearn more about me\n\n\n📬 Get in Touch\nthomas.martin.stats@gmail.com"
   },
   {
     "objectID": "index.html#quick-links",
     "href": "index.html#quick-links",
     "title": "Home",
     "section": "Quick Links",
-    "text": "Quick Links\n\nProjects: View Projects\n\nGitHub: https://github.com/Gippers\n\nEmail: mailto:thomas.martin.stats@gmail.com"
+    "text": "Quick Links\n\nProjects: View Projects\n\nGitHub: https://github.com/Gippers\n\nEmail: thomas.martin.stats@gmail.com"
   },
   {
     "objectID": "projects/solIslandsMap.html",
@@ -68,5 +68,26 @@
     "title": "Solomon Islands Data Map",
     "section": "",
     "text": "&lt;meta http-equiv=“refresh” content=“0; url=https://solomonislandsdatamap.onrender.com/”&gt;\n\nIf you are not redirected, click here: Open the project."
+  },
+  {
+    "objectID": "index.html#analytics-statistics-projects",
+    "href": "index.html#analytics-statistics-projects",
+    "title": "Home",
+    "section": "🧪 Analytics & Statistics Projects",
+    "text": "🧪 Analytics & Statistics Projects\nApplied data analysis projects in R and Python: View projects\nHere is a featured example project from my analytics portfolio.\n\n\n\n\nSolomon Islands Data Map\nInteractive data map of the Solomon Islands\nPython · BI · Geospatial"
+  },
+  {
+    "objectID": "index.html#learn-more-about-me",
+    "href": "index.html#learn-more-about-me",
+    "title": "Home",
+    "section": "👤 Learn More About Me",
+    "text": "👤 Learn More About Me\n\nQualification at a Glance\n\nMasters of Statistics, Australian National University (ongoing)\nGraduate Certificate of Finance and Actuarial Statistics, Australian National University\nBachelor of Science: Majoring in Computer Science, Australian National University/University of NSW"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Home",
+    "section": "📬 Get in Touch",
+    "text": "📬 Get in Touch\nthomas.martin.stats@gmail.com"
   }
 ]

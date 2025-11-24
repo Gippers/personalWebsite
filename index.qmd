@@ -14,18 +14,39 @@ I have recently created this site to share some of my personal data analytics pr
 
 ---
 
-## What I Work On
-
-### 🧪 Analytics & Statistics Projects
+## 🧪 Analytics & Statistics Projects
 Applied data analysis projects in R and Python:
 [View projects](projects.html)
 
-### 👤 Learn More About Me
-[Learn more about me](about.html)
+Here is a featured example project from my analytics portfolio.
 
-### 📬 Get in Touch   
+<a href="https://solomonislandsdatamap.onrender.com/" style="text-decoration: none; color: inherit;">
+<div class="card" style="padding: 1rem; cursor: pointer;">
 
-thomas.martin.stats@gmail.com
+<img src="icons/solMap.png" style="width: 300px; margin-bottom: 1rem;">
+
+### Solomon Islands Data Map
+Interactive data map of the Solomon Islands  
+<i>Python · BI · Geospatial</i>
+
+</div>
+</a>
+
+
+
+
+## 👤 [Learn More About Me](about.html)
+
+### Qualifications at a Glance
+
+- **Masters of Statistics**, Australian National University (ANU) (ongoing)
+- **Graduate Certificate of Finance and Actuarial Statistics**, ANU
+- **Bachelor of Science: Majoring in Computer Science**, ANU/University of NSW
+
+
+## 📬 Get in Touch   
+
+<thomas.martin.stats@gmail.com>
 
 
 
@@ -35,7 +56,7 @@ thomas.martin.stats@gmail.com
 
 - **Projects:** [View Projects](projects.html)  
 - **GitHub:** <https://github.com/Gippers>  
-- **Email:** <mailto:thomas.martin.stats@gmail.com>
+- **Email:** <thomas.martin.stats@gmail.com>
 
 ---
 
