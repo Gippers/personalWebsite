@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "These projects open on their own GitHub Pages sites. More coming soon.\nAuthor: Thomas Martin\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nACT School Walking Analysis\n\n\n\nR\n\nNetwork Analytics\n\nACT\n\n\n\nAn analysis of School Walking Distance in the ACT\n\n\n\n\n\nAug 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nSolomon Islands Data Map\n\n\n\nPython\n\nBI\n\nGeospatial\n\n\n\nInteractive data map of Solomon Islands\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\nNo matching items"
+    "text": "These projects open on their own GitHub Pages sites. More coming soon.\nAuthor: Thomas Martin\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nACT Road Crash Forecasting\n\n\n\nR\n\nForecasting\n\nTechnical Report\n\nACT\n\n\n\nA temporal analysis road crashes in the ACT\n\n\n\n\n\nDec 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nACT School Walking Analysis\n\n\n\nR\n\nNetwork Analytics\n\nACT\n\n\n\nAn analysis of school walking distance in the ACT\n\n\n\n\n\nAug 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nSolomon Islands Data Map\n\n\n\nPython\n\nBI\n\nGeospatial\n\n\n\nInteractive data map of Solomon Islands\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/actSchoolWalking.html",
@@ -12,6 +12,41 @@
     "title": "ACT School Walking Analysis",
     "section": "",
     "text": "&lt;meta http-equiv=“refresh” content=“0; url=https://gippers.github.io/actSchoolWalking/”&gt;\n\nIf you are not redirected, click here: Open the project."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I build statistical models, BI tools, and apply statistics to help organizations make better decisions.\nI have recently created this site to share some of my personal data analytics projects. More projects are coming in the next few months."
+  },
+  {
+    "objectID": "index.html#thomas-martin",
+    "href": "index.html#thomas-martin",
+    "title": "Home",
+    "section": "",
+    "text": "I build statistical models, BI tools, and apply statistics to help organizations make better decisions.\nI have recently created this site to share some of my personal data analytics projects. More projects are coming in the next few months."
+  },
+  {
+    "objectID": "index.html#analytics-statistics-projects",
+    "href": "index.html#analytics-statistics-projects",
+    "title": "Home",
+    "section": "🧪 Analytics & Statistics Projects",
+    "text": "🧪 Analytics & Statistics Projects\nApplied data analysis projects in R and Python.\n\n🔍 View Projects\n\nA project I’d highlight is the Solomon Islands Data Map, a fully interactive dashboard integrating census, election, and population projection data.\n\n\n\n\nSolomon Islands Data Map\nInteractive data map of the Solomon Islands\nPython · BI · Geospatial"
+  },
+  {
+    "objectID": "index.html#learn-more-about-me",
+    "href": "index.html#learn-more-about-me",
+    "title": "Home",
+    "section": "👤 Learn More About Me",
+    "text": "👤 Learn More About Me\n\nℹ️ About\n\n\nQualifications at a Glance\n\nMasters of Statistics, Australian National University (ANU) (ongoing)\nGraduate Certificate of Finance and Actuarial Statistics, ANU\nBachelor of Science: Major in Computer Science, ANU/University of NSW"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Home",
+    "section": "📬 Get in Touch",
+    "text": "📬 Get in Touch\nthomas.martin.stats@gmail.com"
   },
   {
     "objectID": "about.html",
@@ -35,32 +70,11 @@
     "text": "Professional Experience\nOver 5 years industry experience working in the data analytics/science sector. Some of the tasks I have under taken include; building BI tools, wrangling data, performing data modelling including regression modelling and forecasting, and collating these results into reports."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "projects/actRoadCrash.html",
+    "href": "projects/actRoadCrash.html",
+    "title": "ACT Road Crash Forecasting",
     "section": "",
-    "text": "I build statistical models, BI tools, and apply statistics to help organizations make better decisions.\nI have recently created this site to share some of my personal data analytics projects. More projects are coming in the next few months."
-  },
-  {
-    "objectID": "index.html#thomas-martin",
-    "href": "index.html#thomas-martin",
-    "title": "Home",
-    "section": "",
-    "text": "I build statistical models, BI tools, and apply statistics to help organizations make better decisions.\nI have recently created this site to share some of my personal data analytics projects. More projects are coming in the next few months."
-  },
-  {
-    "objectID": "index.html#what-i-work-on",
-    "href": "index.html#what-i-work-on",
-    "title": "Home",
-    "section": "What I Work On",
-    "text": "What I Work On\n\n🧪 Analytics & Statistics Projects\nApplied data analysis projects in R and Python: View projects\n\n\n\n\n\nSolomon Islands Data Map\nInteractive data map of Solomon Islands\nPython · BI · Geospatial\nView Project →\n\n\n\n\n\n\n👤 Learn More About Me\nLearn more about me\n\n\n📬 Get in Touch\nthomas.martin.stats@gmail.com"
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Home",
-    "section": "Quick Links",
-    "text": "Quick Links\n\nProjects: View Projects\n\nGitHub: https://github.com/Gippers\n\nEmail: mailto:thomas.martin.stats@gmail.com"
+    "text": "&lt;meta http-equiv=“refresh” content=“0; url=https://gippers.github.io/actRoadCrashes/”&gt;\n\nIf you are not redirected, click here: Open the project."
   },
   {
     "objectID": "projects/solIslandsMap.html",
@@ -68,26 +82,5 @@
     "title": "Solomon Islands Data Map",
     "section": "",
     "text": "&lt;meta http-equiv=“refresh” content=“0; url=https://solomonislandsdatamap.onrender.com/”&gt;\n\nIf you are not redirected, click here: Open the project."
-  },
-  {
-    "objectID": "index.html#analytics-statistics-projects",
-    "href": "index.html#analytics-statistics-projects",
-    "title": "Home",
-    "section": "🧪 Analytics & Statistics Projects",
-    "text": "🧪 Analytics & Statistics Projects\nApplied data analysis projects in R and Python.\n\n🔍 View Projects\n\nA project I’d highlight is the Solomon Islands Data Map, a fully interactive dashboard integrating census, election, and population projection data.\n\n\n\n\nSolomon Islands Data Map\nInteractive data map of the Solomon Islands\nPython · BI · Geospatial"
-  },
-  {
-    "objectID": "index.html#learn-more-about-me",
-    "href": "index.html#learn-more-about-me",
-    "title": "Home",
-    "section": "👤 Learn More About Me",
-    "text": "👤 Learn More About Me\n\nℹ️ About\n\n\nQualifications at a Glance\n\nMasters of Statistics, Australian National University (ANU) (ongoing)\nGraduate Certificate of Finance and Actuarial Statistics, ANU\nBachelor of Science: Major in Computer Science, ANU/University of NSW"
-  },
-  {
-    "objectID": "index.html#get-in-touch",
-    "href": "index.html#get-in-touch",
-    "title": "Home",
-    "section": "📬 Get in Touch",
-    "text": "📬 Get in Touch\nthomas.martin.stats@gmail.com"
   }
 ]

@@ -2,6 +2,7 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/actRoadCrash.html",
       "/projects/actSchoolWalking.html",
       "/projects/solIslandsMap.html"
     ]

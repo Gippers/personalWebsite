@@ -1,10 +1,10 @@
 ---
-title: "ACT School Walking Analysis"
-date: 2025-08-31
-description: "An analysis of school walking distance in the ACT"
-categories: [R, Network Analytics, ACT]
-image: ../icons/schoolWalking.png
-external-url: https://gippers.github.io/actSchoolWalking/
+title: "ACT Road Crash Forecasting"
+date: 2025-12-19
+description: "A temporal analysis road crashes in the ACT"
+categories: [R, Forecasting, Technical Report, ACT]
+image: ../icons/crashForecast.png
+external-url: https://gippers.github.io/actRoadCrashes/
 ---
 
 <!-- Redirect visitors immediately to the external project site -->
